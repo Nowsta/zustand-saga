@@ -1,6 +1,6 @@
 {
   "name": "zustand-saga",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Zustand middleware for redux-saga without redux",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
